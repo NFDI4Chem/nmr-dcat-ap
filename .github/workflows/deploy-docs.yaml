@@ -55,6 +55,6 @@ jobs:
       - name: Generate schema documentation
         run: |
           # copy the schema files to the GH pages as a means of publishing them
-          cp src/dcat_4c_ap/schema/*.yaml docs/
+          cp src/nmr_dcat_ap/schema/*.yaml docs/
           just gen-doc
           uv run mkdocs gh-deploy
