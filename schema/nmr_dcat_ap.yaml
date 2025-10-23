@@ -10606,7 +10606,7 @@ classes:
     class_uri: qudt:Quantity
 metamodel_version: 1.7.0
 source_file: nmr_dcat_ap.yaml
-source_file_date: '2025-10-23T16:48:02'
+source_file_date: '2025-10-23T16:49:55'
 source_file_size: 15299
-generation_date: '2025-10-23T16:48:13'
+generation_date: '2025-10-23T16:50:04'
 
